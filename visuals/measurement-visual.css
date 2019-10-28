@@ -1,0 +1,8 @@
+input:focus{
+    outline: none;
+}
+
+input {
+    border: 0px solid black;
+    color: darkgray;
+}
